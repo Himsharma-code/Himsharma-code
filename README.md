@@ -16,9 +16,10 @@
 ---
 
 ### 🔭 What I’m up to
-- Building **recommendation systems** (pgvector, NestJS) and **i18n admin dashboards** for multi-tenant apps.  
-- Optimizing **Core Web Vitals** with code-splitting, tree-shaking, and edge-friendly patterns.  
-- Exploring **PWA**, **WebRTC**, and **microfrontends** at scale. 
+- 🚀 Building full-stack projects with **React.js**, **Next.js**, and **NestJS**.  
+- 📚 Learning **AWS Cloud Practitioner (CLF-C02)** and deepening **GraphQL** expertise.  
+- 🧪 Experimenting with **microfrontends** and **PWA** performance optimizations.  
+- 💡 Exploring **AI integrations** for real-world applications.
 
 ---
 
