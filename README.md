@@ -70,27 +70,6 @@
 
 ---
 
-### 📈 GitHub Stats
-> Replace `YOUR_GITHUB_USERNAME` below with your username (e.g., `Himanshu-code` or `himanshu15101998`).
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github"
-    alt="GitHub Stats" />
-</p>
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME"
-    alt="GitHub Streak" />
-</p>
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"
-    alt="Top Languages" />
-</p>
-
----
-
 ### 🤝 Let’s connect
 - 🌍 Surat, India  
 - ✉️ **himanshu15101998@gmail.com**  
